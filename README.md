@@ -1,19 +1,24 @@
 # Staging Area
 
-Welcome to the staging area for [archwomen.org][women].
+Welcome to the staging area for [archwomen.org][site]. Published
+articles are written in [markdown][] and published with the
+[b2evo_markdown][] plugin. We welcome community participation.
 
-  [women]: http://archwomen.org/index.php
+  [site]: http://archwomen.org/index.php
+  [markdown]: http://daringfireball.net/projects/markdown/
+  [b2evo_markdown]: http://josephhall.org/b2evo_markdown/
 
 ## Publishing
 
 So you want to be published?
 
 1. Fork this repo
-2. Add your file to the inbox folder
-3. Make a pull request
+2. Write your markdown article
+3. Push the article to the `inbox` folder
+4. Make a pull request
 
 Once your post has been reviewed we'll bring it into this repository and
-move it into the posts folder once it is published.
+move it into the `published` folder once it is published.
 
 ## Corrections
 
@@ -22,6 +27,8 @@ send us a patch and we'll correct it.
 
 ## License
 
-These articles are published under Creative Commons.
+These articles are published under [Creative Commons][license].
 
 ![by-nc-sa](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+
+  [license]: http://creativecommons.org/licenses/by-nc-sa/3.0/
