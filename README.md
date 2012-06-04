@@ -27,8 +27,8 @@ send us a patch and we'll correct it.
 
 ## License
 
-These articles are published under [Creative Commons][license].
+These articles are published under [Creative Commons Attribution-ShareAlike 3.0 Unported][license].
 
-![by-nc-sa](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+![by-sa](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
-  [license]: http://creativecommons.org/licenses/by-nc-sa/3.0/
+  [license]: http://creativecommons.org/licenses/by-sa/3.0/
