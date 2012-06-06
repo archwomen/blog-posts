@@ -84,10 +84,10 @@ help make the Arch Linux Community a better place for everyone.
 
 ## Addition regarding IRC added by tigrmesh
 
-	Sometimes the wiki list of channel ops gets out of date.  A list of
-	current #archlinux ops can be found by using the following command:
-
-	/msg chanserv access #archlinux list
-
-	For other channels you would change #archlinux to #fedora,
-	#archlinux-offtopic, etc.  This command may be specific to freenode.
+>   Sometimes the wiki list of channel ops gets out of date.  A list of
+>   current #archlinux ops can be found by using the following command:
+>
+>   ``/msg chanserv access #archlinux list``
+>
+>   For other channels you would change #archlinux to #fedora,
+>   #archlinux-offtopic, etc.  This command may be specific to freenode.

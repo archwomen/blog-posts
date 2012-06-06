@@ -3,11 +3,11 @@
 There is a [call for talks][call] for the Ohio LinuxFest (September
 28-30 2012) event being advertised as:
 
-    We put a lot of effort into trying to be familly-friendly and trying
-    to be as inclusive as possible. We would love to have more women or
-    minorities, or just as much of a mix of people as we possibly can.
-    ... We don't just talk the talk, we do our best to walk the walk on
-    this one.
+>   We put a lot of effort into trying to be familly-friendly and trying
+>   to be as inclusive as possible. We would love to have more women or
+>   minorities, or just as much of a mix of people as we possibly can.
+>   ... We don't just talk the talk, we do our best to walk the walk on
+>   this one.
 
 In the [second episode][1] of the "Freedom isn't Free" podcast.  Their
 code of conduct reflects this and I was confirmed by email that they are
