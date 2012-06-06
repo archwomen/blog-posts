@@ -7,11 +7,11 @@ Several of our projects are still in progress.
 - Classes and tutorials for creation and maintenance of Arch Linux
   packages.
 - archwomen.org site improvement.
-	- SSL/TLS encryption. Most of this is done. Final configuration is
-	  still needed.
-	- Mailing lists will likely be done through the host of
-	  archwomen.org.
-	- Archwomen is now on GitHub!
+    - SSL/TLS encryption. Most of this is done. Final configuration is
+      still needed.
+    - Mailing lists will likely be done through the host of
+      archwomen.org.
+    - Archwomen is now on GitHub!
 - Calendar of geek/Linux women events. Some setups discussed include
   Citadel.org and Google Apps.
 

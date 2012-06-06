@@ -38,22 +38,38 @@ ambitious list of tasks and a handful of volunteers.
 
 ## Volunteers
 
------------ ------------------------------------------------------------
-joyfulgirl  gather and improve PKGBUILD documentation and/or teach a
-            class/module
-
-qubodup     clean up PKGBUILD ArchWiki pages (eliminate duplicate
-            information, increase readability etc.), appear to official
-            hours
-
-Ioni        teach a class
-
-tigrmesh    write post on protecting privacy
-
-meskarune   research calendar software and mailing list, finish setting
-            up SSL, post up official office hours (and appear), make
-            forum announcement about PKGBUILD documentation efforts.
------------ ------------------------------------------------------------
+<table>
+  <tr>
+    <td>joyfulgirl<td>
+    <td>
+      gather and improve PKGBUILD documentation and/or teach
+      a class/module
+    </td>
+  </tr>
+  <tr>
+    <td>qubodup</td>
+    <td>
+      clean up PKGBUILD ArchWiki pages (eliminate duplicate information,
+      increase readability etc.), appear to official hours
+    </td>
+  </tr>
+  <tr>
+    <td>Ioni</td>
+    <td>teach a class</td>
+  </tr>
+  <tr>
+    <td>tigrmesh</td>
+    <td>write post on protecting privacy</td>
+  </tr>
+  <tr>
+    <td>meskarune
+    <td>
+      research calendar software and mailing list, finish setting up
+      SSL, post up official office hours (and appear), make forum
+      announcement about PKGBUILD documentation efforts.
+    </td>
+  </tr>
+</table>
 
 If anyone else would like to help out, please feel free. We need site
 contributors, moderators and editors as well as people to lurk in the
