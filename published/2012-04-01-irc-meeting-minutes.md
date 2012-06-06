@@ -40,29 +40,29 @@ ambitious list of tasks and a handful of volunteers.
 
 <table>
   <tr>
-    <td>joyfulgirl<td>
+    <th>joyfulgirl</th>
     <td>
       gather and improve PKGBUILD documentation and/or teach
       a class/module
     </td>
   </tr>
   <tr>
-    <td>qubodup</td>
+    <th>qubodup</th>
     <td>
       clean up PKGBUILD ArchWiki pages (eliminate duplicate information,
       increase readability etc.), appear to official hours
     </td>
   </tr>
   <tr>
-    <td>Ioni</td>
+    <th>Ioni</th>
     <td>teach a class</td>
   </tr>
   <tr>
-    <td>tigrmesh</td>
+    <th>tigrmesh</th>
     <td>write post on protecting privacy</td>
   </tr>
   <tr>
-    <td>meskarune
+    <th>meskarune</th>
     <td>
       research calendar software and mailing list, finish setting up
       SSL, post up official office hours (and appear), make forum
