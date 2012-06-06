@@ -1,4 +1,4 @@
-Girl Geek Con 2012
+# Girl Geek Con 2012
 
 There is a "GirlGeekCon" happening in Seattle. Details from the
 [website]:
