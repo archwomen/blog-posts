@@ -41,7 +41,8 @@ You can also contact forum moderators individually via personal message
 whichever moderator you wish to contact to see their profile. Follow the
 "email" link to bring up an interface to write to that moderator.
 
-Forum administrators can be contacted by email via forum@archlinux.org.
+Forum administrators can be contacted by email via
+<forum@archlinux.org>.
 
 ## IRC
 

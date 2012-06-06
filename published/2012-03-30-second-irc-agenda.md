@@ -37,7 +37,7 @@ US/Central (UTC-5), 20:00 Eastern Europe (UTC+3) on the
 3. Open Discussion and Suggestions
 
 As always, please feel free to comment on the agenda, join us on Sunday
-for the Meeting, or e-mail us at [admin@archwomen.org][mail].
+for the Meeting, or e-mail us at <admin@archwomen.org>.
 
   [irc]: http://webchat.freenode.net/?channels=archlinux-women
   [how]: http://archwomen.org/index.php/2012/contributing-to-arch-linux
@@ -46,5 +46,3 @@ for the Meeting, or e-mail us at [admin@archwomen.org][mail].
   [changes]: https://wiki.archlinux.org/index.php?title=Getting_Involved&action=historysubmit&diff=192076&oldid=186263
   [classroom]: https://wiki.ubuntu.com/Classroom
   [ladies]: http://ladieslearningcode.com/
-  [mail]: admin@archwomen.org
-
