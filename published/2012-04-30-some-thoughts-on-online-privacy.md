@@ -38,8 +38,8 @@ displayed?
 However, it is important to remember that data collection allows for
 a positive result. Sites are available to function with data supplied to
 them. And, sites such as facebook and twitter rely upon data collection
-to pay thier bills. Its how they are able to provide free services just
-as google provides a search engine based on ad revenue. And, its all
+to pay their bills. Its how they are able to provide free services just
+as Google provides a search engine based on ad revenue. And, its all
 free, no cost to you. The reason why it is free is because you are
 engaging in information trading, you trade your search data in exchange
 for a search result. You should decide carefully how much you wish to
