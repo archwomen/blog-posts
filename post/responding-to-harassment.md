@@ -1,4 +1,7 @@
-# Responding to Harassment Within the Arch Linux Community
+title = "Responding to Harassment within the Arch Linux Community"
+datetime = "2012-05-16 12:00"
+tags = ["informational", "archlinux"]
+----------
 
 The Arch Linux community is large and diverse, representing many
 cultures and societies. They are unified by a pursuit for technological
@@ -55,20 +58,20 @@ can still send you private messages.
 
 A list of ops for `#archlinux` and `#archlinux-offtopic` is available
 here.  You can send those users a private message to let them know about
-a problem. The exact command may depend on your client. Try ``/query
-<nick>`` or ``/msg <nick> <msg>`` with ``<nick>`` being the nickname of
+a problem. The exact command may depend on your client. Try ```/query
+<nick>``` or ```/msg <nick> <msg>``` with ```<nick>``` being the nickname of
 the OP you are trying to contact.
 
 ### Examples:
 
-``/query meskarune``
+```/query meskarune```
 
-``/msg ioni help!``
+```/msg ioni help!```
 
 You can also put specific people on "ignore". This means all their
 messages will be hidden. You can do this with the command:
 
-``/ignore <nick>``
+```/ignore <nick>```
 
 ## Pitfalls
 

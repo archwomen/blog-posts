@@ -1,4 +1,9 @@
-# Some Thoughts on Online Privacy
+title = "Some Thoughts on Online Privacy"
+datetime = "2012-04-30 00:00"
+summary = "Does online privacy matter to you? Sometimes it's hard to know what a site means when they talk about privacy and sharing your information. And sometimes those profile options have much bigger meaning than we realize."
+author = "tigrmesh"
+tags = ["privacy", "security"]
+----------
 
 Does online privacy matter to you? Sometimes it's hard to know what
 a site means when they talk about privacy and sharing your information.

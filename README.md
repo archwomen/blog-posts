@@ -1,29 +1,40 @@
-# Staging Area
+# Arch Women Blog Posts
 
-Welcome to the staging area for [archwomen.org][site]. Published
-articles are written in [markdown][] and published with the
-[b2evo_markdown][] plugin. We welcome community participation.
+Welcome to the article repository for Arch Women's [blog][].
+Published articles are written in [GitHub][GFM] flavored [markdown][] and published with [lilac][].
+We welcome community participation.
 
-  [site]: http://archwomen.org/index.php
+  [blog]: https://archwomen.org/blog/
   [markdown]: http://daringfireball.net/projects/markdown/
-  [b2evo_markdown]: http://josephhall.org/b2evo_markdown/
+  [GFM]: https://help.github.com/articles/github-flavored-markdown/
+  [lilac]: https://github.com/hit9/lilac
 
 ## Publishing
 
 So you want to be published?
 
 1. Fork this repo
-2. Write your markdown article
-3. Push the article to the `inbox` folder
-4. Make a pull request
+2. Copy sample_post.md
+3. Write your markdown article
+4. Put the article in the `post` folder
+5. Make a pull request
 
-Once your post has been reviewed we'll bring it into this repository and
-move it into the `published` folder once it is published.
+Once your post has been reviewed we'll merge it and push to the server to publish.
 
 ## Corrections
 
-Notice spelling or grammatical mistakes? Please Open an issue or just
-send us a patch and we'll correct it.
+Notice spelling or grammatical mistakes?
+Please open an issue or just send us a patch or pull request and we'll correct it.
+
+## Repository
+
+These are the files and directories found in this git repository.
+
+- about.md
+- old/ - unconverted posts from b2evolution
+- post/ - the blog articles
+- README.md - the file you are reading
+- sample_post.md - template for creating new blog articles
 
 ## License
 

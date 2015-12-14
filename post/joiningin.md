@@ -1,4 +1,9 @@
-# Joining in on the Conversation: IRC
+title = "Joining in on the Conversation: IRC"
+datetime = "2012-02-22 00:00"
+author = "meskarune"
+summary = "One of the quickest and easiest ways to get help and/or feedback on an open source project is through Internet Relay Chat."
+tags = ["tutorial", "irc"]
+----------
 
 One of the quickest and easiest ways to get help and/or feedback on an
 open source project is through Internet Relay Chat. When you join a chat
@@ -11,7 +16,7 @@ To quickly try out IRC, you can use [this web client][web]. Be warned
 that people might be busy and take a while to respond. Make sure to stay
 and 'lurk'.
 
-## Official hours
+### Official hours
 
 We have set a weekly time frame, during which community members are
 guaranteed to be available:
@@ -20,7 +25,7 @@ guaranteed to be available:
 
 However, feel free to join at any other time.
 
-## Getting started with IRC
+### Getting started with IRC
 
 Getting connected to IRC is just a matter of installing a client,
 picking a name, connecting to a server, and joining a channel. It's
@@ -28,34 +33,44 @@ a good idea to register your nick name so you can always use the same
 one.
 
 1. In Arch Linux you can install an IRC client like [xchat][] via
-   pacman: ``sudo pacman -S xchat``
+   pacman: 
+   ```bash
+   sudo pacman -S xchat
+   ```
 2. After you open your client choose a nickname. Some IRC clients also
    offer to let you set alternative names in case the one you pick is
    already taken.
 3. After you have a name, connect to the Freenode IRC chat server.
    Freenode is mainly used by FOSS projects for software support and
    organizing. To connect to the Freenode server You can enter
-   ``/connect irc.freenode.net:6667`` in the text feild of your client,
-   or by using the GUI of your choosen IRC client.
-4. After connecting to the server, register your nick ``/msg nickserv
-   register <password> <email>``
-5. To connect to a channel such as Arch Women type ``/join
-   #archlinux-women``
-6. To get a list of current channel operators, do ``/msg chanserv access
-   #archlinux-women list``
+   ```
+   /connect irc.freenode.net:6667
+   ``` in the text feild of your client, or by using the GUI of your choosen IRC client.
+4. After connecting to the server, register your nick 
+   ```
+   /msg nickserv register <password> <email>
+   ```
+5. To connect to a channel such as Arch Women type 
+   ```
+   /join #archlinux-women
+   ```
+6. To get a list of current channel operators, do 
+   ```
+   /msg chanserv access #archlinux-women list
+   ```
 
-## Related IRC channels
+### Related IRC channels
 
-### Freenode (irc.freenode.net:6667)
+#### Freenode (irc.freenode.net:6667)
 
 `#archlinux` `#ubuntu`-women `#apachewomen` `#drupalchix` `#glofs`
 (glorious ladies of free software)
 
-### Linux Chix (irc.linuxchix.org:6668)
+#### Linux Chix (irc.linuxchix.org:6668)
 
 `#linuxchix` `#owoot` (oceania women of tech)
 
-## Links
+### Links
 
 - [Freenode: Registering Nicks][registering]
 - [Arch Linux IRC rules][rules]

@@ -1,4 +1,8 @@
-# June 3rd IRC Meeting Agenda
+title = "June 3rd IRC Meeting Agenda"
+datetime = "2012-06-03 01:00"
+summary = "The June Arch Women meeting is being held at 12 PM US/Central (UTC-5), 20:00 Eastern Europe (UTC+3) June 3rd, on the `#archlinux-women` IRC channel. We've accomplished a lot since our last meeting. Lets keep the momentum going."
+tags = ["meeting", "IRC", "agenda"]
+----------
 
 The June Arch Women meeting is being held at 12 PM US/Central (UTC-5),
 20:00 Eastern Europe (UTC+3) June 3rd, on the `#archlinux-women` IRC
